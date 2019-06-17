@@ -1,3 +1,3 @@
 "Hello Git" 
 "hello again"
-"updating readme status"
+"updating readme"
