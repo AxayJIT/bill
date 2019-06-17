@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 "my name is khan"
 this is great
+=======
+Adding some code here
+Adding yet more code
+
+Fix1
+>>>>>>> 66d51609c191339425afc7ff4431669b8fc28e3e
